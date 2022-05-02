@@ -1,9 +1,14 @@
-# Fabric Example Mod
+# Head Tracking Go Brrrr
 
-## Setup
+Random experiment with head tracking + Minecraft.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Disclaimer
 
-## License
+This has not been tested in servers and might cause some false positives. **Use at your own risk.**
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Usage
+
+In order to use this, one should either use OpenTrack or FaceTrackNoIR.
+Then, point the output of the tracking to port 56867.
+
+![udp protocol screenshot](https://i.imgur.com/28TJxeK.png)
